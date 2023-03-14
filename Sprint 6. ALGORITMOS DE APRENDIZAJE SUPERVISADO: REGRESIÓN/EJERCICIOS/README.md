@@ -20,5 +20,5 @@ Este proyecto está diseñado para familiarizarse con el trabajo con conjuntos d
 Este proyecto contiene tres archivos:
 
 * **Tarea M6 T01.ipynb:** Este es el archivo principal donde se realizó  el proyecto.
-* **housing.csv:** El conjunto de datos del proyecto.
+* **housing data.csv:** El conjunto de datos del proyecto.
 * **housing data description:** Descripción de los atributos del dataset.
