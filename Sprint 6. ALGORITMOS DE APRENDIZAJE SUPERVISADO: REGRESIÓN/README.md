@@ -9,7 +9,7 @@ En este módulo se trabajarán los algoritmos de regresión, clasificados en los
 
 ## Objetivos específicos
 
-![]()
+![](https://github.com/Crap89/IT_ACADEMY/blob/main/Sprint%206.%20ALGORITMOS%20DE%20APRENDIZAJE%20SUPERVISADO:%20REGRESI%C3%93N/IM%C3%81GENES/obje%20espe.jpg)
 
 * Aplicar correctamente los algoritmos de aprendizaje supervisado con Regresiones.
 * Evaluar adecuadamente modelos de regresión.  
