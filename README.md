@@ -2,7 +2,10 @@
 
 ![](https://github.com/Crap89/IT_ACADEMY/blob/main/IM%C3%81GENES/BDT_it-academy.png)
 
+
 ## Descripción general:
+![image](https://user-images.githubusercontent.com/122302639/225134988-a6a23707-4c98-4a7d-91d7-1d32795ff02d.png) 
+
 
 En este curso de  Ciencia de Datos  se aprende a extraer valor de los datos mediante la ingesta, transformación, almacenamiento, análisis y visualización de los datos. Se aplican técnicas de exploración, manipulación y transformación, tanto de datos estructurados como no estructurados, para conocer los datos y extraer información de utilidad para la toma de decisiones. 
 
@@ -18,11 +21,13 @@ Al final de curso los y las participantes llevarán a cabo un proyecto transvers
 
 
 ## Objetivos generales:
+![objetivo general](https://user-images.githubusercontent.com/122302639/225134731-65f8d456-d479-49d5-9b60-1e0858c5abb2.png)
 
 Aprender todas las técnicas y funciones de ciencia de datos y conseguir una competencia efectiva con código Python, orientado a la analítica de datos así como fundamentos sólidos de estadística.
 
 
 ## Objetivos específicos:
+![obje espe](https://user-images.githubusercontent.com/122302639/225134831-f6dccea6-c613-4192-9519-21d68384bce1.jpg)
 
 1. Conocer conceptos básicos y avanzados de estadística y ciencia de datos.
 2. Crear repositorios de datos mediante ingesta, transformación, almacenamiento y análisis de datos.
