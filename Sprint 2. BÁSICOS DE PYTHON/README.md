@@ -15,5 +15,7 @@ En este sprint hay que tener paciencia porque quizás los ejercicios son muy bá
 ![obje espe](https://user-images.githubusercontent.com/122302639/225136207-191003fb-7bf5-4c5c-98ef-28d8dc03d091.jpg)
 
 -> Saber los distintos tipos de estructura de datos.
+
 -> Realizar correctamente estructura de control, condicionantes y bucles.
+
 -> Creación de funciones.  
