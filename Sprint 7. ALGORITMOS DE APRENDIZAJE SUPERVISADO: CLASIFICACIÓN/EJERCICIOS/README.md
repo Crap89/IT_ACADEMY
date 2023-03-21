@@ -19,5 +19,18 @@ Ejercicios de algoritmos de Clasificación.
 * Estudio y modificación de parámetros.
 
 
+# Documentos que componen el Proyecto:
+
+
+## Este proyecto contiene tres archivos:
+
+* **Tarea M7 T01.ipynb:** Este es el archivo principal donde se realizó  el proyecto.
+
+* **wineData.txt:** El conjunto de datos del proyecto.
+
+* **wineNames.txt:** Descripción de los atributos del dataset.
+
+
+
 
 
