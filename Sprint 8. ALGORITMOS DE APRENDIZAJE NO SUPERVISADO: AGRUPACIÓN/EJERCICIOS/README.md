@@ -17,6 +17,16 @@ Ejercicios de algoritmos de Agrupación.
 
 * Interpretar los resultados.
 
+# Documentos que componen el Proyecto:
+
+## Este proyecto contiene dos archivos:
+
+* **Tarea M8 T01.ipynb:** Este es el archivo principal donde se realizó  el proyecto.
+
+* **Publicaciones Facebook Thailandia.csv:** El conjunto de datos del proyecto.
+
+
+
 
 
 
